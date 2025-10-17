@@ -327,40 +327,34 @@ nav{
   padding: 10px 15px;
   text-align: left;
 }
-
 .coupon-content h3 {
   margin: 0;
   color: #000;
   font-size: 16px;
   font-weight: 600;
 }
-
 .coupon-content p {
   margin: 5px 0;
   font-size: 13px;
   color: #666;
 }
-
 .coupon-progress {
   height: 3px;
   background: linear-gradient(to right, #e53935 40%, #ccc 40%);
   border-radius: 5px;
   margin: 8px 0;
 }
-
 .coupon-actions {
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-
 .coupon-actions a {
   color: #e53935;
   font-size: 13px;
   text-decoration: none;
   font-weight: 500;
 }
-
 .coupon-actions button {
   background: #212121;
   color: #fff;
