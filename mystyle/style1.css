@@ -528,3 +528,19 @@ nav{
   font-weight: bold;
   margin:0 auto;
 }
+
+.banner{
+  display:flex;
+  gap:10px;
+  margin:25px;
+}
+
+.banner img{
+  width:398px;
+  height:auto;
+  transition:0.3s;
+}
+.banner img:hover{
+  transform:translateY(-5px);
+  box-shadow:0 4px 10px rgb(0,0,0,0.15);
+}
