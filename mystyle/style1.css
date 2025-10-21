@@ -473,6 +473,7 @@ nav{
   object-fit: cover;
   border-radius: 10px;
   margin: 0 auto;
+  position:relative;
 }
 
 .product-trademark {
@@ -519,4 +520,11 @@ nav{
   margin-top: 8px;
   font-size: 13px;
   color: #555;
+}
+
+.title{
+  color:black;
+  text-align: center;
+  font-weight: bold;
+  margin:0 auto;
 }
