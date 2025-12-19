@@ -710,12 +710,12 @@ nav {
 
 }
 
-.layout-right{
+.layout-right {
   width: 300px;
 }
 
 .layout-box {
-  color:black;
+  color: black;
   font-size: 14px;
   padding: 10px;
   gap: 10px;
@@ -879,9 +879,9 @@ nav {
   padding: 0 10px 0 10px;
 }
 
-.right-product{
-  font-size:12px;
-  width:200px;
+.right-product {
+  font-size: 12px;
+  width: 200px;
   margin: 0 auto;
-  padding:10px;
+  padding: 10px;
 }
